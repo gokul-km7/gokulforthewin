@@ -1,0 +1,1 @@
+This Project folder is about TypeScript Concepts! Hope you enjoy it :)
